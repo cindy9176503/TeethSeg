@@ -10,4 +10,7 @@ pip install -r requirements.txt
 ## Folder
 - dataset
   - tooth
+    - image
+    - label
+    - data.json (use exp.ipynb -> Preprocess cell)
 - TeethSeg
