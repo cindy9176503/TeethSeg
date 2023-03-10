@@ -8,10 +8,12 @@ pip install -r requirements.txt
 ```
 
 ## Folder
-|- dataset<br>
-  |- tooth
-    |- cindydata
-      |- image
-      |- label
-      |- data.json (use exp.ipynb -> Preprocess cell)
+```shell
+|- dataset
+    |- tooth
+        |- cindydata
+            |- image
+            |- label
+            |- data.json (use exp.ipynb -> Preprocess cell)
 |- TeethSeg
+```
