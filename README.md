@@ -3,6 +3,8 @@
 ```shell
 conda create -n toothseg python=3.10
 conda activate toothseg
+pip install ipykernel
+python -m ipykernel install --user --name toothseg
 ```
 
 ```shell
