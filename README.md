@@ -1,8 +1,8 @@
 # TeethSeg
 ## Install
 ```shell
-conda create -n teethseg python=3.10
-conda activate teethseg
+conda create -n TeethSeg python=3.10
+conda activate TeethSeg
 ```
 
 ```shell
