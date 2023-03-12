@@ -1,10 +1,10 @@
 # TeethSeg
 ## Install
 ```shell
-conda create -n toothseg python=3.10
-conda activate toothseg
+conda create -n teethseg python=3.10
+conda activate teethseg
 pip install ipykernel
-python -m ipykernel install --user --name toothseg
+python -m ipykernel install --user --name TeethSeg
 ```
 
 ```shell
